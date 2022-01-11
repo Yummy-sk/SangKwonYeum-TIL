@@ -1,4 +1,4 @@
-# 🕸 Web
+# CORS
 
 [https://www.youtube.com/watch?v=-2TgkKYmJt4](https://www.youtube.com/watch?v=-2TgkKYmJt4)
 
