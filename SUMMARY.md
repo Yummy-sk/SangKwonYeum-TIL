@@ -3,7 +3,7 @@
 * [SangKwonYeum-TLI](README.md)
 * [📔 TLI](tli/README.md)
   * [2022.1.11](TLI/2022.1.11.md)
-  * [2022.1.2](tli/2022.1.2.md)
+  * [2022.1.20](tli/2022.1.20.md)
 * [📚 Algorithm](Algorithm/README.md)
 * [🙂 Javascript](Javascript/README.md)
 * [⚛ React](react/README.md)
