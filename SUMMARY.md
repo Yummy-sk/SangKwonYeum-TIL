@@ -4,6 +4,7 @@
 * [📔 TLI](tli/README.md)
   * [2022.1.11](TLI/2022.1.11.md)
   * [2022.1.20](tli/2022.1.20.md)
+  * [2022.1.21](tli/2022.1.21.md)
 * [📚 Algorithm](Algorithm/README.md)
 * [🙂 Javascript](Javascript/README.md)
 * [⚛ React](react/README.md)
