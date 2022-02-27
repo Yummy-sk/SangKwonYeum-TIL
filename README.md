@@ -1,4 +1,4 @@
-# SangKwonYeum-TLI
+# SangKwonYeum-TIL
 
 ## Object
 
